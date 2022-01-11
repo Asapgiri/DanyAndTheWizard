@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{46A0C7CC-EA71-42C9-9585-B37E32EA669F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DanyAndTheWizard.Data</RootNamespace>
+    <AssemblyName>DanyAndTheWizard.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>oenik.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>oenik.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Skins\Characters\WizardF.png" />
+    <EmbeddedResource Include="Skins\Characters\Queen.png" />
+    <EmbeddedResource Include="Skins\Characters\Goblin.png" />
+    <EmbeddedResource Include="Skins\Characters\GoblinFight.png" />
+    <EmbeddedResource Include="Skins\Characters\NPC1.png" />
+    <EmbeddedResource Include="Skins\Characters\TownNPC.png" />
+    <EmbeddedResource Include="Skins\Characters\Zoe.png" />
+    <EmbeddedResource Include="Skins\Characters\Frazer.png" />
+    <EmbeddedResource Include="Skins\Characters\Knight.png" />
+    <EmbeddedResource Include="Skins\Characters\KnightFight.png" />
+    <EmbeddedResource Include="Skins\Characters\OrcKnight.png" />
+    <EmbeddedResource Include="Skins\Characters\OrcKnightFight.png" />
+    <EmbeddedResource Include="Skins\Characters\Robot.png" />
+    <EmbeddedResource Include="Skins\Characters\RobotFight.png" />
+    <EmbeddedResource Include="Skins\Characters\WizardE.png" />
+    <EmbeddedResource Include="Skins\Characters\WizardEFight.png" />
+    <None Include="Skins\Elements\34x34icons.png" />
+    <EmbeddedResource Include="Skins\Elements\Allahs_chest.png" />
+    <EmbeddedResource Include="Skins\Elements\Apple.png" />
+    <EmbeddedResource Include="Skins\Elements\Arduins_rod.png" />
+    <EmbeddedResource Include="Skins\Elements\Better_Bread.png" />
+    <EmbeddedResource Include="Skins\Elements\Kerrys_Axe.png" />
+    <EmbeddedResource Include="Skins\Elements\Kerrys_chest.png" />
+    <EmbeddedResource Include="Skins\Elements\Mapels_Chest.png" />
+    <EmbeddedResource Include="Skins\Elements\Mapels_Log.png" />
+    <EmbeddedResource Include="Skins\Elements\Maples_Blood.png" />
+    <EmbeddedResource Include="Skins\Elements\Mapple.png" />
+    <EmbeddedResource Include="Skins\Elements\Masterpiece.png" />
+    <EmbeddedResource Include="Skins\Elements\Nyans_Bread.png" />
+    <EmbeddedResource Include="Skins\Elements\Nyan_chest.png" />
+    <EmbeddedResource Include="Skins\Elements\Nyan_Rod.png" />
+    <EmbeddedResource Include="Skins\Characters\DanyFight.png" />
+    <EmbeddedResource Include="Skins\Characters\Bandit.png" />
+    <EmbeddedResource Include="Skins\Characters\BanditFight.png" />
+    <EmbeddedResource Include="Skins\Elements\Bread.png" />
+    <EmbeddedResource Include="Maps\Frazer.png" />
+    <EmbeddedResource Include="Maps\Field.png" />
+    <EmbeddedResource Include="Maps\Forest.png" />
+    <EmbeddedResource Include="Skins\Characters\Wizard.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany1.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany2.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Back.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Back2.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Left1.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Left2.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Right1.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Right2.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Back1.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Left.png" />
+    <EmbeddedResource Include="Skins\Characters\Dany_Right.png" />
+    <EmbeddedResource Include="Maps\Forest.mp" />
+    <EmbeddedResource Include="Maps\Field.mp" />
+    <EmbeddedResource Include="Maps\Frazer.mp" />
+    <EmbeddedResource Include="Skins\Characters\Heroes_01.png" />
+    <EmbeddedResource Include="Skins\Elements\MinimapBorder.png" />
+    <None Include="app.config" />
+    <Content Include="DATW.save" />
+    <Content Include="DATW.sett" />
+    <EmbeddedResource Include="Maps\City.mp" />
+    <None Include="oenik.ruleset" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="..\packages\StyleCop.Analyzers.Unstable.1.2.0.164\analyzers\dotnet\cs\StyleCop.Analyzers.CodeFixes.dll" />
+    <Analyzer Include="..\packages\StyleCop.Analyzers.Unstable.1.2.0.164\analyzers\dotnet\cs\StyleCop.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Maps\City.png" />
+    <EmbeddedResource Include="NPC_Texts\Npc_Texts.nps" />
+    <EmbeddedResource Include="Skins\Elements\Slates_v2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

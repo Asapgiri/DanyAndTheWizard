@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['icharacter_96',['ICharacter',['../interface_dany_and_the_wizard_1_1_repository_1_1_interfaces_1_1_i_character.html',1,'DanyAndTheWizard::Repository::Interfaces']]],
+  ['id_97',['Id',['../class_dany_and_the_wizard_1_1_logic_1_1_internal_classes_1_1_game_item.html#a164ed31972beedfe23b6387a9b8fae1a',1,'DanyAndTheWizard::Logic::InternalClasses::GameItem']]],
+  ['idatwlogic_98',['IDatwLogic',['../interface_dany_and_the_wizard_1_1_logic_1_1_interfaces_1_1_i_datw_logic.html',1,'DanyAndTheWizard::Logic::Interfaces']]],
+  ['idatwrepo_99',['IDatwRepo',['../interface_dany_and_the_wizard_1_1_repository_1_1_interfaces_1_1_i_datw_repo.html',1,'DanyAndTheWizard::Repository::Interfaces']]],
+  ['ifight_100',['IFight',['../interface_dany_and_the_wizard_1_1_logic_1_1_interfaces_1_1_i_fight.html',1,'DanyAndTheWizard::Logic::Interfaces']]],
+  ['image_101',['Image',['../class_dany_and_the_wizard_1_1_logic_1_1_internal_classes_1_1_game_item.html#ab7e704eb0dfe0e947e1db0de110fd5b9',1,'DanyAndTheWizard::Logic::InternalClasses::GameItem']]],
+  ['imap_102',['IMap',['../interface_dany_and_the_wizard_1_1_repository_1_1_interfaces_1_1_i_map.html',1,'DanyAndTheWizard::Repository::Interfaces']]],
+  ['ingamemenu_103',['InGameMenu',['../class_dany_and_the_wizard_1_1_view_models_1_1_in_game_menu.html',1,'DanyAndTheWizard::ViewModels::InGameMenu'],['../class_dany_and_the_wizard_1_1_in_game_menu.html',1,'DanyAndTheWizard::InGameMenu']]],
+  ['initmodel_104',['InitModel',['../class_dany_and_the_wizard_1_1_logic_1_1_datw_logic.html#a624e83d80166c65d53fff8e41faf3e3e',1,'DanyAndTheWizard.Logic.DatwLogic.InitModel()'],['../interface_dany_and_the_wizard_1_1_logic_1_1_interfaces_1_1_i_datw_logic.html#a730adf545d103dd7b7de4478d1f0e5ab',1,'DanyAndTheWizard.Logic.Interfaces.IDatwLogic.InitModel()']]],
+  ['interact_105',['Interact',['../class_dany_and_the_wizard_1_1_logic_1_1_config.html#af695f50b845a8d8999edebe0cdb26ef0',1,'DanyAndTheWizard::Logic::Config']]],
+  ['inventory_106',['Inventory',['../class_dany_and_the_wizard_1_1_inventory.html',1,'DanyAndTheWizard::Inventory'],['../class_dany_and_the_wizard_1_1_view_models_1_1_inventory.html',1,'DanyAndTheWizard::ViewModels::Inventory'],['../class_dany_and_the_wizard_1_1_logic_1_1_config.html#a5432ad32ef6775a75c152122d1475fad',1,'DanyAndTheWizard.Logic.Config.Inventory()'],['../class_dany_and_the_wizard_1_1_logic_1_1_models_1_1_character_model.html#a25e5aa58d443967905e4c75a49baf886',1,'DanyAndTheWizard.Logic.Models.CharacterModel.Inventory()']]],
+  ['inventorysize_107',['InventorySize',['../class_dany_and_the_wizard_1_1_logic_1_1_models_1_1_character_model.html#a31743054a33962f5ea848fd61a800015',1,'DanyAndTheWizard::Logic::Models::CharacterModel']]],
+  ['invframesize_108',['InvFrameSize',['../class_dany_and_the_wizard_1_1_logic_1_1_config.html#a0068d54edf6fe3e1c47d30a5910b09c5',1,'DanyAndTheWizard::Logic::Config']]],
+  ['isave_109',['ISave',['../interface_dany_and_the_wizard_1_1_repository_1_1_interfaces_1_1_i_save.html',1,'DanyAndTheWizard.Repository.Interfaces.ISave'],['../interface_dany_and_the_wizard_1_1_logic_1_1_interfaces_1_1_i_save.html',1,'DanyAndTheWizard.Logic.Interfaces.ISave']]],
+  ['ischaracter_110',['IsCharacter',['../class_dany_and_the_wizard_1_1_logic_1_1_models_1_1_entity_model.html#a4eaa383c3ade83f68b4b27f911673acb',1,'DanyAndTheWizard::Logic::Models::EntityModel']]],
+  ['isequipped_111',['IsEquipped',['../class_dany_and_the_wizard_1_1_logic_1_1_internal_classes_1_1_game_item.html#a4204712609f2d2e2a1984b7a250e7107',1,'DanyAndTheWizard::Logic::InternalClasses::GameItem']]],
+  ['isettings_112',['ISettings',['../interface_dany_and_the_wizard_1_1_repository_1_1_interfaces_1_1_i_settings.html',1,'DanyAndTheWizard::Repository::Interfaces']]],
+  ['isinfight_113',['IsInFight',['../class_dany_and_the_wizard_1_1_logic_1_1_models_1_1_fight_model.html#aaf8cdf62ded00c264fc3546ef04ebcfb',1,'DanyAndTheWizard::Logic::Models::FightModel']]],
+  ['isinteracted_114',['IsInteracted',['../class_dany_and_the_wizard_1_1_logic_1_1_models_1_1_entity_model.html#affebface8700fd1ba29a0c93d50fabdd',1,'DanyAndTheWizard::Logic::Models::EntityModel']]],
+  ['isinteractionrunning_115',['IsInteractionRunning',['../class_dany_and_the_wizard_1_1_logic_1_1_datw_model.html#aa81c43983a28e7884c53d49620e216ce',1,'DanyAndTheWizard::Logic::DatwModel']]],
+  ['isinventoryopen_116',['IsInventoryOpen',['../class_dany_and_the_wizard_1_1_logic_1_1_datw_model.html#a31f60bc4e04da8b80ee1ff28cc2de74d',1,'DanyAndTheWizard::Logic::DatwModel']]],
+  ['ispaused_117',['IsPaused',['../class_dany_and_the_wizard_1_1_datw_control.html#ad1acbbd4ee1e02c44e6190d319d654a1',1,'DanyAndTheWizard::DatwControl']]],
+  ['iswin_118',['IsWin',['../class_dany_and_the_wizard_1_1_logic_1_1_models_1_1_fight_model.html#a656ebced6237e565b1bf547ea5cff464',1,'DanyAndTheWizard::Logic::Models::FightModel']]],
+  ['itemtype_119',['ItemType',['../namespace_dany_and_the_wizard_1_1_logic.html#a88db0e1778c9493f464061aa24f6cd8f',1,'DanyAndTheWizard::Logic']]]
+];

@@ -1,0 +1,203 @@
+﻿Wizard{
+~Intro:
+Ohh Dany you awake?
+Its a preatty beutiful day isn't it. Altaugh the princecc had been kidnapped, but don't worry.
+I know where you can find her. Frazer did it.
+Now go to the forest I'll wait you there.
+
+~Forest:
+Ahh I see you made it here. Sadly I cannot follow you into the forest, but Ill wate you at the exit.
+Now goodl luck. Ohh and wait...
+I've heared there is an Orc at the exit. Be careful.
+I'll wait you at the field.
+
+~Field:
+Ohh you are here. Sooner than i expected.
+But now i have some tasks with girls you know.
+So Ill be on my own see you after you defeate Frazer.
+
+~Frazer:
+I see you have defeated Frazer who ran away.
+Congratulation for your wictory!
+
+
+};
+
+Dany{
+~Intro:
+Sadly I see this is like usual.
+
+~TownNPC:
+Dont worry about is. I kinda getting used to it.
+The princess likes to play with bad guys.
+
+~Zoe1:
+Hwo the hack are you again!?
+Hey missy. Wait!
+Now I've done it. Another girl is gone..
+
+~Wizard:
+Hmmp.
+
+
+
+};
+
+TownNPC{
+~City:
+Ohh hello Dany. Don't you need something today?
+Ohh sorry I heard about the princess. I didn't mean't to disturb you.
+Here you go. An apple for the little princess..
+
+};
+
+NPC1{
+~City:
+Nice day for fishing ain't it.
+
+~Field:
+Nice day for fishing ain't it.
+
+~Extra:
+Here youve hot something :)
+
+~Frazer1:
+Ohh Dany I lost my eyebrush..
+
+~Frazer2:
+Dany Dany see. I found my eyebrush <3
+
+};
+
+Queen{
+~Sexy:
+Ohh Danny you are awsome <3
+You can have me when we get home <3 <3 <3
+};
+
+
+Zoe{
+~Forest:
+Ohh a newbie here. Lets have some fun.
+F@&Ł. I see i'ts you master. He-he..
+Please be careful. There is a Knight at the big tree.
+
+};
+
+Bandit{
+~Speach:
+Ahh I see you are alone. Hand over your stuff or else.
+
+~Victory:
+You will regret this.
+
+~Defeat:
+Hmmp. Loser..
+};
+
+Robot{
+~Speach:
+Beep-beep, boop-boop.
+
+~Victory:
+BEEEEEEP-BOOOOOOOOOOOOOOOOOP--- -.-
+
+~Defeat:
+BEEP-BEEP. Looser..
+};
+
+WizardE{
+~Speach:
+YOU SHALL NOT PASS!!!
+
+~Victory:
+You are the chosen one. You can PASS!!
+
+~Defeat:
+THATS IT??
+YOU DON'T DESERVE TO PASS!!
+};
+
+Goblin{
+~Speach:
+Prepate to lose hehe.
+
+~Victory:
+This isn't the last time you see us.
+
+~Defeat:
+Yo don't deserve to pass! LOSER!!
+};
+
+OrcKnight{
+~Speach:
+GRAAAAAAAAA?!?
+
+~Victory:
+GRAAAA!!
+
+~Defeat:
+GRAAAAAAAAAAA!!!
+};
+
+Knight{
+~Speach:
+Im a Knight of my honor! You shall be strong or prepare to bee DOOMED.
+
+~Victory:
+Congratulation my man. You deserve to pass.
+
+~Defeat:
+Your effort is something, but you are not strong enough.
+We shall see each other then.
+};
+
+Frazer{
+~Speach:
+Ohh I see you come Dany.
+So you have gutts aniway..
+Lets fight for the Queen then.
+
+~Victory:
+You shall have the Queen.
+Arggh..
+Dead..
+
+~Defeat:
+You are no worthy to have the Queen.
+Pathetic you are..
+};
+
+NextMap{
+~First:
+The forest of Rivia.
+
+~Second:
+The field of Dragonborn.
+
+~Third:
+The palace of Frazer.
+
+~Test:
+This is the test of load next map.
+Strange isn't it.
+
+};
+
+EndGame{
+~TheEnd:
+Congratulation on finishing the hame. Clap. Clap.
+
+};
+
+EasterEgg{
+~TheEgg:
+I'm a well what you looking at?
+
+~CanHave:
+So you helped Zoe.. I see.
+Here youve got a reward.
+
+~DontHave:
+Go bother someone else.
+};
